@@ -1,5 +1,5 @@
 {
-  "name": "camper-leaderboard",
+  "name": "fcc-camper-leaderboard",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jon1701/CamperLeaderboard.git"
+    "url": "git+https://github.com/Jon1701/FCC-CamperLeaderboard.git"
   },
   "author": "Jon1701",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jon1701/CamperLeaderboard/issues"
+    "url": "https://github.com/Jon1701/FCC-CamperLeaderboard/issues"
   },
-  "homepage": "https://github.com/Jon1701/CamperLeaderboard#readme",
+  "homepage": "https://github.com/Jon1701/FCC-CamperLeaderboard#readme",
   "devDependencies": {
     "bootstrap": "^3.3.6",
     "gulp": "^3.9.1",
