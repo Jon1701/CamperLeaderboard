@@ -1,5 +1,4 @@
-# FCC
--CamperLeaderBoard
+# FCC-CamperLeaderBoard
 
 The Camper Leader Board displays the ranking of FreeCodeCamp.org users based on the number of points within the last 30 days or of all time.
 
