@@ -1,4 +1,5 @@
-# FCC-CamperLeaderBoard
+# FCC
+-CamperLeaderBoard
 
 The Camper Leader Board displays the ranking of FreeCodeCamp.org users based on the number of points within the last 30 days or of all time.
 
@@ -49,3 +50,5 @@ Available `gulp` targets:
 - `gulp webserver` to start the webserver
 - `gulp watch` to watch files for changes
 - `gulp default` to build the application
+
+`gulp` is not installed globally. You must use `./node_modules/.bin/gulp`.
